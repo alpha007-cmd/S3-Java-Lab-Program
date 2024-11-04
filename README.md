@@ -1,7 +1,3 @@
-Here's a sample README file for your GitHub repository on S3 Java and Data Structure lab programs for the KTU 2019 scheme:
-
----
-
 # S3 Java and Data Structure Lab Programs - KTU Scheme 2019
 
 This repository contains Java programs and data structure exercises for the S3 (Semester 3) Java and Data Structures lab as per the KTU (Kerala Technological University) 2019 scheme.
