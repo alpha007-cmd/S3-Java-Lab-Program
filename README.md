@@ -4,7 +4,7 @@ This repository contains Java programs and data structure exercises for the S3 (
 
 ## Overview
 
-This repository is intended to help students by providing examples of various Java programs and data structures used in the lab sessions for KTU's S3 course. Each program is organized according to the lab's requirements and covers topics like arrays, linked lists, stacks, queues, trees, sorting algorithms, and more.
+This repository is intended to help students by providing examples of various Java programs and data structures used in lab sessions for KTU's S3 course. Each program aligns with the lab requirements and covers topics like arrays, linked lists, stacks, queues, trees, sorting algorithms, and more.
 
 ## Prerequisites
 
@@ -16,11 +16,12 @@ This repository is intended to help students by providing examples of various Ja
 
 1. Clone or download the repository:
     ```bash
- git clone https://github.com/alpha007-cmd/S3-Lab-Program
+    git clone https://github.com/alpha007-cmd/S3-Lab-Program
     ```
+
 2. Open the repository in your preferred Java IDE or editor.
 
-3. **Important**: Before running a program, ensure the `class` name matches the filename (Java programs require the `public class` name to match the file name). Update the `class` name if necessary before executing the program.
+3. **Important**: Before running a program, ensure that the `class` name matches the filename. In Java, the `public class` name must match the file name. Update the `class` name if necessary before executing the program.
 
 4. Compile and run each program as needed.
 
@@ -31,8 +32,8 @@ This repository is intended to help students by providing examples of various Ja
 - `StackPrograms/` - Stack data structure programs.
 - `QueuePrograms/` - Queue implementations and operations.
 - `TreePrograms/` - Binary tree and binary search tree operations.
-- `SortingAlgorithms/` - Sorting techniques such as bubble sort, selection sort, etc.
-- Other lab-related exercises.
+- `SortingAlgorithms/` - Sorting techniques such as bubble sort, selection sort, and more.
+- Additional lab-related exercises.
 
 ## Contributing
 
@@ -43,3 +44,5 @@ If you have additional programs or improvements, feel free to create a pull requ
 ### License
 
 This project is licensed under the MIT License.
+
+--- 
