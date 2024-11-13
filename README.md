@@ -40,9 +40,3 @@ This repository is intended to help students by providing examples of various Ja
 If you have additional programs or improvements, feel free to create a pull request. Contributions are welcome!
 
 ---
-
-### License
-
-This project is licensed under the MIT License.
-
---- 
